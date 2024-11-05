@@ -18,6 +18,7 @@ namespace RyzenFs
         {
             InitializeComponent();
         }
+        //tHIS IS THE FORM FOR DASHBOARD
 
         private void Dashboard_Load(object sender, EventArgs e)
         {
